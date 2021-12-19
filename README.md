@@ -8,7 +8,7 @@ For generating attack profiles please refer to ```generate_attack_files.py```
 - Average Attack
 - Bandwagon Attack  
 
-```Drive Link``` to saved attack profiles: https://drive.google.com/drive/folders/1jadqCCuKOLe6JTqSlvvyhq6EsgX5IN21?usp=sharing
+```Drive Link``` to load(already generated) attack profiles: https://drive.google.com/drive/folders/1jadqCCuKOLe6JTqSlvvyhq6EsgX5IN21?usp=sharing
 
 ## Detection of shilling attacks
 
