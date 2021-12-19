@@ -1,2 +1,2 @@
-# shilling_a_and_d
+# README
 Shilling attacks and detection methods
