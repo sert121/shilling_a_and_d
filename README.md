@@ -1,7 +1,9 @@
 # Shilling attacks and detection methods
 
 ## Shilling attacks 
-
+- Random Attack
+- Average Attack
+- Bandwagon Attack
 
 ## Detection of shilling attacks
 
